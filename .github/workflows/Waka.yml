@@ -17,7 +17,7 @@ jobs:
           # 设置语言：中文
           LOCALE: "zh"
           # 显示最近更新时间
-          SHOW_UPDATES_DATE: "True"
+          SHOW_UPDATED_DATE: "True"
           # 显示代码量
           SHOW_LINES_OF_CODE: "True"
           # 关闭个人资料浏览量
