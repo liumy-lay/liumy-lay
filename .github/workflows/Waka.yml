@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # 北京时间 18:30 自动执行
-    - cron: '30 1 * * *'
+    - cron: '30 10 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -18,8 +18,6 @@ jobs:
           LOCALE: "zh"
           # 显示最近更新时间
           SHOW_UPDATES_DATE: "True"
-          # 设置时间格式
-          UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
           # 显示代码量
           SHOW_LINES_OF_CODE: "True"
           # 关闭个人资料浏览量
