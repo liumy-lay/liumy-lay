@@ -68,4 +68,4 @@ Python                   1 repo              ███████████�
  Last Updated on 2024/07/15 02:23:19 UTC
 <!--END_SECTION:waka-->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=liumy&show_icons=true&icon_color=4169E1&text_color=ffffff&bg_color=D80835&hide_title=true" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=liumy&show_icons=true&icon_color=ffffff&text_color=ffffff&bg_color=D80835&hide_title=true" /> 
