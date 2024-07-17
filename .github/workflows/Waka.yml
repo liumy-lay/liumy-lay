@@ -23,8 +23,8 @@ jobs:
           # 显示代码量
           SHOW_LINES_OF_CODE: "True"
           # 关闭个人资料浏览量
-          SHOW_PROFILE_VIEWS: "Flase"
+          SHOW_PROFILE_VIEWS: "False"
           # 关闭代码总时间
-          SHOW_TOTAL_CODE_TIME: "Flase"   
+          SHOW_TOTAL_CODE_TIME: "False"   
           # 关闭简要信息介绍
-          SHOW_SHORT_INFO: "Flase"
+          SHOW_SHORT_INFO: "False"
