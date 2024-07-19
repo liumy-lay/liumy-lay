@@ -15,19 +15,3 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          # 设置语言：中文
-          LOCALE: "zh"
-          # 最近更新时间显示设置
-          SHOW_UPDATED_DATE: "True"
-          # 代码总量显示设置
-          SHOW_LINES_OF_CODE: "True"
-          # 个人资料浏览量显示设置
-          SHOW_PROFILE_VIEWS: "False"
-          # 代码总时间显示设置
-          SHOW_TOTAL_CODE_TIME: "False"   
-          # 个人简要信息介绍显示设置
-          # SHOW_SHORT_INFO: "False"
-          # 系统显示设置
-          SHOW_OS: "False"
-          # 项目显示设置
-          SHOW_PROJECTS: "False"
