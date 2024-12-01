@@ -8,8 +8,6 @@
 
 ### 🚀 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2036%20mins-blue)
-
 📅 **I'm Most Productive on Friday** 
 
 ```text
@@ -52,5 +50,5 @@ Python                   2 repos             ███████████�
 
 
 
- Last Updated on 30/11/2024 10:40:03 UTC
+ Last Updated on 01/12/2024 10:41:28 UTC
 <!--END_SECTION:waka-->
