@@ -27,13 +27,13 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 41 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Edge                     1 hr 41 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+HITCS_Papers             1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -45,5 +45,5 @@ Python                   2 repos             ███████████�
 
 
 
- Last Updated on 21/03/2025 10:41:39 UTC
+ Last Updated on 22/03/2025 10:41:46 UTC
 <!--END_SECTION:waka-->
