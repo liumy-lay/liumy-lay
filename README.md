@@ -8,34 +8,6 @@
 
 ### 🚀 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2040%20mins-blue)
-
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Tuesday                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Wednesday                14 commits          ████████░░░░░░░░░░░░░░░░░   31.82 % 
-Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Friday                   22 commits          ████████████░░░░░░░░░░░░░   50.00 % 
-Saturday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -45,5 +17,5 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 27/09/2025 10:37:42 UTC
+ Last Updated on 28/09/2025 10:38:02 UTC
 <!--END_SECTION:waka-->
