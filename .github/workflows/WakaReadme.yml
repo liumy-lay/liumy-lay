@@ -20,8 +20,8 @@ jobs:
           # 日期格式
           UPDATE_DATE_FORMAT: "%Y/%m/%d" 
           # 可选图表
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
