@@ -5,21 +5,21 @@
  
 ### 🚀 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2021%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 311 Bytes Used in GitHub's Storage 
+> 📦 312 Bytes Used in GitHub's Storage 
  > 
 > 🏆 10 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -48,23 +48,23 @@ Sunday                   2 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 54 mins       ██████████████████████░░░   88.18 % 
-Python                   23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other                    3 hrs 59 mins       ████████████████████░░░░░   79.72 % 
+Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Python                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 22 mins       ██████████████████░░░░░░░   72.03 % 
-Edge                     55 mins             ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+Chrome                   2 hrs 53 mins       ██████████████░░░░░░░░░░░   57.85 % 
+Edge                     2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.15 % 
 
 🐱‍💻 Projects: 
-my-geektime              2 hrs 49 mins       █████████████████████░░░░   85.21 % 
-daily_stock_analysis     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-VideoCalling             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-liumy-lay                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-go-stock                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+my-geektime              2 hrs 49 mins       ██████████████░░░░░░░░░░░   56.31 % 
+liumy-lay                1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+daily_stock_analysis     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+VideoCalling             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+MyBlog                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 
 💻 Operating System: 
-Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,5 +81,5 @@ Go                       1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/liumy-lay/liumy-lay/main/assets/bar_graph.png)
 
 
- Last Updated on 24/01/2026 10:44:33 UTC
+ Last Updated on 25/01/2026 10:45:34 UTC
 <!--END_SECTION:waka-->
