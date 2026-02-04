@@ -57,7 +57,7 @@ Edge                     0 secs              ███████████�
 MyBlog                   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +74,5 @@ Go                       1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/liumy-lay/liumy-lay/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2026 11:05:51 UTC
+ Last Updated on 04/02/2026 11:06:17 UTC
 <!--END_SECTION:waka-->
