@@ -13,7 +13,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 345 Bytes Used in GitHub's Storage 
+> 📦 346 Bytes Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2026
  > 
@@ -48,13 +48,13 @@ Sunday                   2 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Edge                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MyBlog                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
@@ -74,5 +74,5 @@ Go                       1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/liumy-lay/liumy-lay/main/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2026 11:27:03 UTC
+ Last Updated on 28/02/2026 10:47:18 UTC
 <!--END_SECTION:waka-->
