@@ -1,6 +1,6 @@
  <h1 align="left">👋Hi there! I'm Maya </h1>
  
- ### 📈 Coding Activity
+ ### 📈 Working Activity
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
