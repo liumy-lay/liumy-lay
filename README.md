@@ -30,4 +30,4 @@
 
 
 ## :grin: Github 3D Contributions
-![profile-3d](./profile-3d-contrib/profile-season-animate.svg​)
+![profile-3d](./profile-3d-contrib/profile-south-season.svg​)
