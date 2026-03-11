@@ -1,0 +1,33 @@
+name: WakaTime Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate WakaTime Snake
+        uses: sandeepyadav1478/snk-wakatime@main
+        with:
+          wakatime_json_url: ${{ secrets.WAKATIME_JSON_URL }}
+          outputs: |
+            dist/wakatime-snake.svg
+            dist/wakatime-snake-dark.svg?palette=github-dark
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
