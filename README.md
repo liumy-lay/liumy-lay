@@ -3,7 +3,7 @@
  [![Maya's github stats](https://github-readme-stats.vercel.app/api?username=liumy-lay)](https://github.com/anuraghazra/github-readme-stats)
 
  
- ## 📈 Working Activity (Powered by [wakatime.com](https://wakatime.com/dashboard))
+ ## 📈 Working Activity (Powered by [WakaTime](https://wakatime.com/dashboard))
  
 <picture>
   <source
@@ -24,3 +24,4 @@
   />
 </picture>
 
+![profile-3d](./profile-3d-contrib/profile-season-animate.svg​)
