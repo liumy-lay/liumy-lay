@@ -30,4 +30,4 @@
 
 
 ## :grin: Github 3D Contributions
-![profile-3d](./profile-3d-contrib/profile-south-season.svg​)
+![profile-3d](https://github.com/liumy-lay/liumy-lay/blob/main/profile-3d-contrib/profile-gitblock.svg)​
