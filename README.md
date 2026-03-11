@@ -1,15 +1,27 @@
  <h1 align="left">👋Hi there! I'm Maya </h1>
- 现状：选我所爱，爱我所选。
  
- 愿景：世界无产阶级开发者大团结万岁！
+ ### 📈 Coding Activity
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/liumy-lay/liumy-lay/output/wakatime-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://raw.githubusercontent.com/liumy-lay/liumy-lay/output/wakatime-snake.svg
+    "
+  />
+  <img
+    alt="wakatime snake"
+    src="https://raw.githubusercontent.com/liumy-lay/liumy-lay/output/wakatime-snake.svg"
+  />
+</picture>
  
 ### 🚀 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2022%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
