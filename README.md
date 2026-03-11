@@ -5,11 +5,11 @@
 ## :blush: Latest Issues
 
 <!-- LATEST_ISSUES_START -->
+- [【Git操作】网页端无法删除文件](https://github.com/liumy-lay/liumy-lay/issues/3) · `liumy-lay/liumy-lay#3` · `open`
 - [【图文教程】个人主页美化](https://github.com/liumy-lay/liumy-lay/issues/2) · `liumy-lay/liumy-lay#2` · `open`
 - [【图文教程】基于WakaTime数据的贪吃蛇动画配置](https://github.com/liumy-lay/liumy-lay/issues/1) · `liumy-lay/liumy-lay#1` · `open`
 - [【小白必看】Windows+Pycharm 快速运行本项目（最小化步骤）](https://github.com/liumy-lay/emotional_chat/issues/2) · `liumy-lay/emotional_chat#2` · `open`
 - [【pip install必看】代理/梯子/VPN模式下pip安装依赖过慢问题](https://github.com/liumy-lay/emotional_chat/issues/1) · `liumy-lay/emotional_chat#1` · `open`
-- [“课程筛选项”的中文字体显示乱码](https://github.com/zkep/my-geektime/issues/93) · `zkep/my-geektime#93` · `closed`
 <!-- LATEST_ISSUES_END -->
  ## :smiley: Working Activity (Powered by [WakaTime](https://wakatime.com/dashboard))
  
