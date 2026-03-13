@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=😉为之则易+不为则难👊;👋Hi+there!+I'm+Maya💞)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=😉Code+is+cheap.Show+me+the+talk.;👋Hi+there!+I'm+Maya.)
 
  [![Maya's github stats](https://github-readme-stats.vercel.app/api?username=liumy-lay)](https://github.com/anuraghazra/github-readme-stats)
 
