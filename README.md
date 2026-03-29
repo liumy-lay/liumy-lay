@@ -8,7 +8,7 @@
 ## :blush: Latest Issues
 
 <!-- LATEST_ISSUES_START -->
-- [Kafka 启动问题](https://github.com/liumy-lay/PaiSmart/issues/3) · `liumy-lay/PaiSmart#3` · `open`
+- [Kafka安装和KRaft模式的启动](https://github.com/liumy-lay/PaiSmart/issues/3) · `liumy-lay/PaiSmart#3` · `open`
 - [MinIO（新版）小白安装 & mc 使用指南（Windows / 本地开发版）](https://github.com/liumy-lay/PaiSmart/issues/2) · `liumy-lay/PaiSmart#2` · `open`
 - [【开发调试】完整启动流程（开发）](https://github.com/liumy-lay/emotional_chat/issues/3) · `liumy-lay/emotional_chat#3` · `open`
 - [Windows 本地安装 Elasticsearch 8.10 + IK 分词器踩坑记录](https://github.com/liumy-lay/PaiSmart/issues/1) · `liumy-lay/PaiSmart#1` · `open`
