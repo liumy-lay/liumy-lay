@@ -1,9 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=😉Code+is+cheap.+Show+me+Your+Product.)
-
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💪孩儿立志出乡关+身不成名誓不还;💪埋骨何须桑梓地+人生无处不青山.)
-
- [![Maya's github stats](https://github-readme-stats.vercel.app/api?username=liumy-lay)](https://github.com/anuraghazra/github-readme-stats)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=😉+Code+is+Cheap.+Show+me+Portfolio.)
 
 ## :blush: Latest Issues
 
