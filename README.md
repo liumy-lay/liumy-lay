@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=😉+Code+is+Cheap.+Show+me+Portfolio.)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=😉+Code+is+Cheap.+Show+me+Your+Talk.)
 
 ## :blush: Latest Issues
 
